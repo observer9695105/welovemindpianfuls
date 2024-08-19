@@ -1,0 +1,31 @@
+GitHub 已成为恶意软件传播的严重污染源
+
+发布时间 : 2024-01-15 12:01:51
+
+https://www.anquanke.com/post/id/292638
+
+Recorded Future 凸显了全球合法平台威胁的上升。
+
+图像
+
+根据 Recorded Future最近 的一份报告，开发者平台GitHub最近已成为黑客用来托管和传播恶意软件的流行工具。
+
+该平台为攻击者提供了将其行为伪装成合法网络流量的能力，这使得跟踪和确定攻击者的身份变得困难。
+
+专家将这种策略称为“Living Off Trusted Sites”（LOTS ），它是攻击者经常用来隐藏恶意活动的 “Living off the Land”（ LotL ）技术的修改版。
+
+滥用 GitHub 最常见的方式是传播恶意软件。例如，ReversingLabs上个月 报告了 一些伪造的Python包，这些包从秘密 GitHub 存储库接收恶意命令。
+
+虽然 GitHub 上治理系统的完整实现比其他基础设施设计不太常见，但使用该平台作为“死箱”来获取治理服务器的URL更为常见。使用 GitHub 上传数据的情况也很少见，但仍然有记录，根据 Recorded Future 的说法，这是由于文件大小限制和担心被发现。
+
+除了这些方案之外，攻击者还经常以多种方式使用 GitHub，包括使用 GitHub Pages 作为网络钓鱼或流量重定向主机，以及作为备份控制通道。
+
+Recorded Future 报告强调了攻击者利用合法互联网服务的总体趋势，例如 Google Drive、Microsoft OneDrive、Dropbox、Notion、Firebase、Trello、Discord 以及各种源代码管理平台（包括 GitLab、BitBucket、Codeberg）。
+
+Recorded Future 指出，没有通用的解决方案来检测流行服务的滥用。需要结合不同的检测策略，具体取决于具体环境、日志可用性、组织结构、服务使用模式和风险级别。
+
+本文转载自:
+
+如若转载,请注明出处：
+
+安全客 - 有思想的安全新媒体
